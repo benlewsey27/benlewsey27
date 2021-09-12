@@ -1,6 +1,6 @@
 # Hi, I'm Ben Lewsey!
 
-I'm currently in my final year of my Computer Science Degree at Swansea University!
+I have recently graduated from Swansea University. I now work at Backbase as a Junior System Enginner and look forward to learning new skills and adding value to the industry.
 
 I'm interested in:
 - Software Development
